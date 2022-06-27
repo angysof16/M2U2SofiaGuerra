@@ -29,6 +29,6 @@ verificar que los cuatro valores introducidos por el teclado sean valores distin
 - Crear un mensaje de alerta en caso que se detecte la introducción de valores iguales.
 
 
-<summary><h2><img src="https://tenor.com/view/kitty-review-touch-grass-touch-grass-computer-gif-23630945" align="center"
-                width="28" /> </h2></summary>
+<summary><img src="https://tenor.com/view/kitty-review-touch-grass-touch-grass-computer-gif-23630945" align="center"
+                width="28" /></summary>
                 
