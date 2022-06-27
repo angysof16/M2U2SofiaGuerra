@@ -13,4 +13,23 @@ header{
     height: 100px;
     width: 1000px;
     margin: 0px;
+    text-align: center;
+    line-height: 25px;
+    border: 2px dashed teal;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+form{
+    width: 55%;
+    float: left;
+    padding: 50px;
+    display: table;
+    align-items: center;
+    justify-content: center;
+    line-height: 50px;
+}
+#nums{
+    width: 50%;
+    padding-top: 200px;
+    padding-left: 230px;
 }
