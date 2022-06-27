@@ -1,0 +1,16 @@
+body{
+    background-color: lightgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#container{
+    width: 70%;
+    margin: 0px auto;
+}
+
+header{
+    background-color:coral;
+    height: 100px;
+    width: 1000px;
+    margin: 0px;
+}
