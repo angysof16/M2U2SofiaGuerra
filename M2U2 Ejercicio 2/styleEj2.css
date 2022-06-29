@@ -22,11 +22,13 @@ header{
 form{
     width: 55%;
     float: left;
-    padding: 50px;
+    padding: 10px;
     display: table;
     align-items: center;
     justify-content: center;
     line-height: 50px;
+    margin: 70px;
+
 }
 #nums{
     width: 50%;

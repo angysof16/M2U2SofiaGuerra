@@ -3,8 +3,8 @@ const
     B = document.getElementById('numberTwo'),
     C = document.getElementById('numberThree'),
     D = document.getElementById('numberFour'),
-    button = document.getElementById('button')
-    textoMayor = document.getElementById('numMayor')
+    button = document.getElementById('button'),
+    textoMayor = document.getElementById('numMayor'),
     textoMenor = document.getElementById('numMenor')
     
 

@@ -1,0 +1,73 @@
+body{
+    background-color: lightcyan;
+}
+
+header{
+    background-color:coral;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100px;
+    width: 96%;
+    margin: 0px;
+    text-align: center;
+    line-height: 25px;
+    border: 2px dashed teal;
+    padding: 20px;
+}
+
+#bienvenida{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:large;
+    color:darkgreen;
+    padding-left: 20px;
+}
+
+#nombreBV{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:large;
+    color:navy;
+    padding-left: 20px;
+}
+
+#bNombre{
+    padding: 10px;
+    margin: 10px;
+}
+
+#nombremateria{
+    padding: 10px;
+    margin: 10px;
+}
+
+#materias{
+    padding: 10px;
+    margin: 10px;
+}
+
+#nombreT{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    padding: 15px;
+    margin: 5px;
+}
+
+#nombreEstudiante{
+    padding: 10px;
+    margin: 10px;
+}
+
+#bMateria{
+    padding: 10px;
+    margin: 10px;
+}
+
+#datosFinales{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    padding: 15px;
+    margin: 5px;
+    border: 2px dashed orangered;
+}
+
+#valoresFijos{
+    font-size:x-small;
+}
